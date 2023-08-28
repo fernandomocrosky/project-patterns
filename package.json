@@ -17,7 +17,8 @@
     "url": "https://github.com/fernandomocrosky/project-patterns/issues"
   },
   "homepage": "https://github.com/fernandomocrosky/project-patterns#readme",
-  "dependencies": {
+  "devDependencies": {
+    "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   }
 }
